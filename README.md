@@ -1,13 +1,13 @@
 <h1>To-do</h1>
 
 <p>
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/ignite-node_to-do">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/to-do-node">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/ignite-node_to-do">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/to-do-node">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/ignite-node_to-do?color=%68a063">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/to-do-node?color=%68a063">
 
-  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/ignite-node_to-do">
+  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/to-do-node">
 </p>
 
 <p>
